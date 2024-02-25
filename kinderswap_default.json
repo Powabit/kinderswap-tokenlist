@@ -18,7 +18,7 @@
     {
       "chainId": 16507,
       "address": "0x766c8aed079d43d6b29da8792b818373b933d80e",
-      "name": "Tether USDT (GSYS)",
+      "name": "Tether USDT",
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://powadap.com/assets/img/icons/coins/usdt.png"
@@ -26,7 +26,7 @@
     {
       "chainId": 16507,
       "address": "0x772bf1c089463341cd18e1c99ffa10d433e12db4",
-      "name": "USDC (GSYS)",
+      "name": "USDC",
       "symbol": "USDC",
       "decimals": 18,
       "logoURI": "https://powadap.com/assets/img/icons/coins/usdc.png"
