@@ -1,0 +1,72 @@
+{
+  "name": "Kinderswap",
+  "logoURI": "https://raw.githubusercontent.com/Powabit/kinderswap-tokenlist/main/kinderswap_logo.png",
+  "keywords": [
+    "kinderswap",
+    "DeFi",
+    "GSYS"
+  ],
+  "tokens": [
+    {
+      "chainId": 16507,
+      "address": "0xdeE429c269504586d976dB774078feA67ea1F1c2",
+      "name": "Baby Bitcoin",
+      "symbol": "BBTC",
+      "decimals": 18,
+      "logoURI": "https://babybitcoin.finance/logo_new_128.png"
+    },
+    {
+      "chainId": 16507,
+      "address": "0x766c8aed079d43d6b29da8792b818373b933d80e",
+      "name": "Tether USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://powadap.com/assets/img/icons/coins/usdt.png"
+    },
+    {
+      "chainId": 16507,
+      "address": "0x772bf1c089463341cd18e1c99ffa10d433e12db4",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://powadap.com/assets/img/icons/coins/usdc.png"
+    },
+    {
+      "chainId": 16507,
+      "address": "0xaa7ae83eb30dddd14a017d4222121776317ea8ba",
+      "name": "Wrapped Genesys",
+      "symbol": "WGSYS",
+      "decimals": 18,
+      "logoURI": "https://powadap.com/assets/img/icons/chain-42440.png"
+    },
+    {
+      "chainId": 16507,
+      "address": "0xb4a3f9d3cece2c298e9b73113f7b6c2b9f9d61ff",
+      "name": "BlueLotusDAO",
+      "symbol": "BLTD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Gchainvalidators/frontend-configs/main/configs/marketplace/bluelotusdao.png"
+    },
+    {
+      "chainId": 16507,
+      "address": "0xC91b5288E0d4bf1e9ecB59a7a1ffD015b66A8Dc6",
+      "name": "CryptoLottery NFT",
+      "symbol": "LOTTO",
+      "decimals": 18,
+      "logoURI": "https://timely-churros-541cf1.netlify.app/imagenes/128x128.png"
+    },
+    {
+      "chainId": 16507,
+      "address": "0x396A955563f77Eb4AA2c62762ED7f24c999c4742",
+      "name": "Dead Ralph",
+      "symbol": "DRALPH",
+      "decimals": 18,
+      "logoURI": "https://bluelotusdao.org/images/tokens/gsys/0x396A955563f77Eb4AA2c62762ED7f24c999c4742.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
