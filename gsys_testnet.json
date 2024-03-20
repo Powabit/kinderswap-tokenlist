@@ -9,22 +9,22 @@
   ],
   "tokens": [
     {
+      "origin": "legacy",
       "chainId": 42440,
       "address": "0x4724d7c0c03fca0d64C73812B9f0af3c40Fbbb02",
       "name": "Baby Bitcoin",
       "symbol": "BBTC",
       "decimals": 18,
-      "logoURI": "https://babybitcoin.finance/logo_new_128.png",
-      "origin": "legacy"
+      "logoURI": "https://babybitcoin.finance/logo_new_128.png"
     },
     {
+      "origin": "legacy",
       "chainId": 42440,
       "address": "0x8272FE566De40938D306646b23901885AA6C0502",
       "name": "Token Game",
       "symbol": "TOKGAM",
       "decimals": 18,
-      "logoURI": "https://powadap.com/assets/img/icons/coins/usdt.png",
-      "origin": "legacy"
+      "logoURI": "https://powadap.com/assets/img/icons/coins/usdt.png"
     }
   ],
   "version": {
