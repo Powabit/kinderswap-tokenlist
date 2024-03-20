@@ -14,7 +14,8 @@
       "name": "Baby Bitcoin",
       "symbol": "BBTC",
       "decimals": 18,
-      "logoURI": "https://babybitcoin.finance/logo_new_128.png"
+      "logoURI": "https://babybitcoin.finance/logo_new_128.png",
+      "origin": "legacy"
     },
     {
       "chainId": 42440,
@@ -22,7 +23,8 @@
       "name": "Token Game",
       "symbol": "TOKGAM",
       "decimals": 18,
-      "logoURI": "https://powadap.com/assets/img/icons/coins/usdt.png"
+      "logoURI": "https://powadap.com/assets/img/icons/coins/usdt.png",
+      "origin": "legacy"
     }
   ],
   "version": {
