@@ -11,22 +11,22 @@
     {
       "origin": "legacy",
       "chainId": 42440,
+      "address": "0xc134A863959707E7DA0412609D73Bcc2d9B9aE2A",
+      "name": "USDT Test",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://powadap.com/assets/img/icons/coins/usdt.png",
+      "description": "USDT for testing environment."
+    },
+    {
+      "origin": "legacy",
+      "chainId": 42440,
       "address": "0x4724d7c0c03fca0d64C73812B9f0af3c40Fbbb02",
       "name": "Baby Bitcoin",
       "symbol": "BBTC",
       "decimals": 18,
       "logoURI": "https://babybitcoin.finance/logo_new_128.png",
       "description": "Launched in July 2021, the Baby Bitcoin token was designed from its inception to be used in entertainment platforms and social initiatives. Over time, it has evolved to encompass a broader structure, articulated in five fundamental pillars that define the essence of the project: Powabit Ecosystem, KinderSwap DEX, Commercial Transactions, Tangible Market, and Social Cause."
-    },
-    {
-      "origin": "legacy",
-      "chainId": 42440,
-      "address": "0x8272FE566De40938D306646b23901885AA6C0502",
-      "name": "Token Game",
-      "symbol": "TOKGAM",
-      "decimals": 18,
-      "logoURI": "https://powadap.com/assets/img/icons/coins/usdt.png",
-      "description": "Only test"
     }
   ],
   "version": {
