@@ -21,6 +21,16 @@
     {
       "origin": "legacy",
       "chainId": 42440,
+      "address": "0xcA8Ad2D32EB71e971F72d4D844F0c3e71118AA2D",
+      "name": "USDC Test",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://powadap.com/assets/img/icons/coins/usdc.png",
+      "description": "USDC for testing environment."
+    },
+    {
+      "origin": "legacy",
+      "chainId": 42440,
       "address": "0x4724d7c0c03fca0d64C73812B9f0af3c40Fbbb02",
       "name": "Baby Bitcoin",
       "symbol": "BBTC",
