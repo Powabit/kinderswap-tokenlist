@@ -32,7 +32,7 @@
       "origin": "legacy",
       "chainId": 42440,
       "address": "0x4724d7c0c03fca0d64C73812B9f0af3c40Fbbb02",
-      "name": "Baby Bitcoin Test",
+      "name": "Baby Bitcoin",
       "symbol": "BBTC",
       "decimals": 18,
       "logoURI": "https://babybitcoin.finance/logo_new_128.png",
