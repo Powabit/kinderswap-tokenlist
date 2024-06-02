@@ -40,16 +40,6 @@
     {
       "origin": "legacy",
       "chainId": 16507,
-      "address": "0xaa7ae83eb30dddd14a017d4222121776317ea8ba",
-      "name": "Wrapped Genesys",
-      "symbol": "WGSYS",
-      "decimals": 18,
-      "logoURI": "https://powadap.com/assets/img/icons/chain-42440.png",
-      "description": "DeFi-Blockchain technology with community-driven solutions to create the fastest, most scalable, and low-consumption products and services for cryptocurrency transactions and NFT’s."
-    },
-    {
-      "origin": "legacy",
-      "chainId": 16507,
       "address": "0xb4a3f9d3cece2c298e9b73113f7b6c2b9f9d61ff",
       "name": "BlueLotusDAO",
       "symbol": "BLTD",
