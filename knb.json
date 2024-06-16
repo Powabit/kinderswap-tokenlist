@@ -14,7 +14,7 @@
       "address": "0x4609ebb1d32d7fd7d3792f2c67cd9e4195b8ca65",
       "name": "Tether USDT",
       "symbol": "USDT",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://powadap.com/assets/img/icons/coins/usdt.png",
       "description": "Tether is a blockchain-enabled platform designed to facilitate the use of fiat currencies in a digital manner. Tether works to disrupt the conventional financial system via a more modern approach to money."
     },
@@ -24,7 +24,7 @@
       "address": "0x2d716332cfcd53b242afe420bc4c957fba83968e",
       "name": "USDC",
       "symbol": "USDC",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://powadap.com/assets/img/icons/coins/usdc.png",
       "description": "USDC is a stablecoin that is pegged to the U.S. dollar on a 1:1 basis. Every unit of this cryptocurrency in circulation is backed up by $1 that is held in reserve, in a mix of cash and short-term U.S. Treasury bonds. The Centre consortium, which is behind this asset, says USDC is issued by regulated financial institutions."
     }
