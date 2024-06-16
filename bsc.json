@@ -1,0 +1,37 @@
+{
+  "name": "Kinderswap",
+  "logoURI": "https://raw.githubusercontent.com/Powabit/kinderswap-tokenlist/main/kinderswap_logo.png",
+  "timestamp": "2024-04-29T18:27:01.188Z",
+  "keywords": [
+    "kinderswap",
+    "DeFi",
+    "BSC"
+  ],
+  "tokens": [
+    {
+      "origin": "legacy",
+      "chainId": 56,
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "name": "Tether USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://powadap.com/assets/img/icons/coins/usdt.png",
+      "description": "Tether is a blockchain-enabled platform designed to facilitate the use of fiat currencies in a digital manner. Tether works to disrupt the conventional financial system via a more modern approach to money."
+    },
+    {
+      "origin": "legacy",
+      "chainId": 56,
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://powadap.com/assets/img/icons/coins/usdc.png",
+      "description": "USDC is a stablecoin that is pegged to the U.S. dollar on a 1:1 basis. Every unit of this cryptocurrency in circulation is backed up by $1 that is held in reserve, in a mix of cash and short-term U.S. Treasury bonds. The Centre consortium, which is behind this asset, says USDC is issued by regulated financial institutions."
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
