@@ -11,7 +11,7 @@
     {
       "origin": "legacy",
       "chainId": 16507,
-      "address": "0xdeE429c269504586d976dB774078feA67ea1F1c2",
+      "address": "0xdee429c269504586d976db774078fea67ea1f1c2",
       "name": "Baby Bitcoin",
       "symbol": "BBTC",
       "decimals": 18,
@@ -51,7 +51,7 @@
     {
       "origin": "legacy",
       "chainId": 16507,
-      "address": "0xC91b5288E0d4bf1e9ecB59a7a1ffD015b66A8Dc6",
+      "address": "0xc91b5288e0d4bf1e9ecb59a7a1ffd015b66a8dc6",
       "name": "CryptoLottery NFT",
       "symbol": "LOTTO",
       "decimals": 18,
@@ -61,7 +61,7 @@
     {
       "origin": "legacy",
       "chainId": 16507,
-      "address": "0x396A955563f77Eb4AA2c62762ED7f24c999c4742",
+      "address": "0x396a955563f77eb4aa2c62762ed7f24c999c4742",
       "name": "Dead Ralph",
       "symbol": "DRALPH",
       "decimals": 18,
