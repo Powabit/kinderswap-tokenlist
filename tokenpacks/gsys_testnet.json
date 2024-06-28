@@ -6,7 +6,7 @@
             "description": "The best token pack for testing purposes",
             "network": 42440,
             "router": "0x42a00cabbe493794c7748f20510a1ccf161ada96",
-            "bannerUrl": "https: //p2pb2b.com/blog/wp-content/uploads/2023/09/meet-genesys-network-1.png",
+            "bannerUrl": "https://p2pb2b.com/blog/wp-content/uploads/2023/09/meet-genesys-network-1.png",
             "contract": "0xb8175e25f0fcf2d2458e4952bd06e1dcbf85fa06",
             "name": "Testnet Token Pack 1",
             "symbol": "TTP1",
@@ -15,7 +15,7 @@
             "collateralName": "Genesys",
             "collateralSymbol": "GSYS",
             "collateralIsWETH": true,
-            "collateralImg": "http: //localhost:3000/assets/img/icons/chain-42440.png",
+            "collateralImg": "https://kinderswap.finance/assets/img/icons/chain-42440.png",
             "tokens": [
                 "0x4724d7c0c03fca0d64c73812b9f0af3c40fbbb02",
                 "0x8e3e3758a47f7269e7596d30c61306a0dbbe06d1"
@@ -38,7 +38,7 @@
             ],
             "tokenImg": [
                 "https://babybitcoin.finance/logo_new_128.png",
-                "http://localhost:3000/assets/img/logo_undefined.png"
+                "https://kinderswap.finance/assets/img/logo_undefined.png"
             ],
             "tokenDesc": [
                 "Launched in July 2021, the Baby Bitcoin token was designed from its inception to be used in entertainment platforms and social initiatives. Over time, it has evolved to encompass a broader structure, articulated in five fundamental pillars that define the essence of the project: Powabit Ecosystem, KinderSwap DEX, Commercial Transactions, Tangible Market, and Social Cause.",
