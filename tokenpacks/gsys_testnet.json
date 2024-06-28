@@ -1,0 +1,50 @@
+{
+    "tokenpacks": [
+
+        {
+            "featured": true,
+            "description": "The best token pack for testing purposes",
+            "network": 42440,
+            "router": "0x42a00cabbe493794c7748f20510a1ccf161ada96",
+            "bannerUrl": "https: //p2pb2b.com/blog/wp-content/uploads/2023/09/meet-genesys-network-1.png",
+            "contract": "0xb8175e25f0fcf2d2458e4952bd06e1dcbf85fa06",
+            "name": "Testnet Token Pack 1",
+            "symbol": "TTP1",
+            "decimals": 18,
+            "collateral": "0xe7e3e6adeb4bb38f7c58c42c698fa0293f957f24",
+            "collateralName": "Genesys",
+            "collateralSymbol": "GSYS",
+            "collateralIsWETH": true,
+            "collateralImg": "http: //localhost:3000/assets/img/icons/chain-42440.png",
+            "tokens": [
+                "0x4724d7c0c03fca0d64c73812b9f0af3c40fbbb02",
+                "0x8e3e3758a47f7269e7596d30c61306a0dbbe06d1"
+            ],
+            "pairs": [
+                "0xefc85168f2500af6785473256a5b5900e902f9c9",
+                "0xc68911f2307067bb72a585f0ae87a4afa9298f0a"
+            ],
+            "tokensNames": [
+                "Baby Bitcoin",
+                "Prueba"
+            ],
+            "tokensSymbols": [
+                "BBTC",
+                "PRU"
+            ],
+            "tokensDecimals": [
+                18,
+                18
+            ],
+            "tokenImg": [
+                "https://babybitcoin.finance/logo_new_128.png",
+                "http://localhost:3000/assets/img/logo_undefined.png"
+            ],
+            "tokenDesc": [
+                "Launched in July 2021, the Baby Bitcoin token was designed from its inception to be used in entertainment platforms and social initiatives. Over time, it has evolved to encompass a broader structure, articulated in five fundamental pillars that define the essence of the project: Powabit Ecosystem, KinderSwap DEX, Commercial Transactions, Tangible Market, and Social Cause.",
+                "Token for test purposes",
+            ]
+        }
+      
+    ]
+}
