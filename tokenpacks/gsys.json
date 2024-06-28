@@ -1,7 +1,50 @@
 {
     "tokenpacks": [
 
-
-
+        {
+            "featured": true,
+            "description": "Two of the top tokens within Genesys that provide entertainment platforms and usability to the network.",
+            "network": 16507,
+            "router": "0x4ef8bbb6c4a5a6b59756520613f6f51d10cac0fe",
+            "bannerUrl": "https://raw.githubusercontent.com/Powabit/kinderswap-tokenlist/main/tpbanners/tp_babylotto.png",
+            "contract": "0xddf11bead3ddc0cbee22a1af25d2163abba38f18",
+            "name": "Baby Lotto",
+            "symbol": "BLOT",
+            "decimals": 18,
+            "collateral": "0xaa7ae83eb30dddd14a017d4222121776317ea8ba",
+            "collateralName": "Genesys",
+            "collateralSymbol": "GSYS",
+            "collateralIsWETH": true,
+            "collateralImg": "https://kinderswap.finance/assets/img/icons/chain-16507.png",
+            "tokens": [
+                "0xdee429c269504586d976db774078fea67ea1f1c2",
+                "0xc91b5288e0d4bf1e9ecb59a7a1ffd015b66a8dc6"
+            ],
+            "pairs": [
+                "0x5ee1ec100ec209919bda18c31f8962d01d479539",
+                "0xa2d3433b7186c82d57cddf3980247c9fe3f2586d"
+            ],
+            "tokensNames": [
+                "Baby Bitcoin",
+                "CryptoLottery NFT"
+            ],
+            "tokensSymbols": [
+                "BBTC",
+                "LOTTO"
+            ],
+            "tokensDecimals": [
+                18,
+                18
+            ],
+            "tokenImg": [
+                "https://babybitcoin.finance/logo_new_128.png",
+                "https://timely-churros-541cf1.netlify.app/imagenes/128x128.png"
+            ],
+            "tokenDesc": [
+                "Launched in July 2021, the Baby Bitcoin token was designed from its inception to be used in entertainment platforms and social initiatives. Over time, it has evolved to encompass a broader structure, articulated in five fundamental pillars that define the essence of the project: Powabit Ecosystem, KinderSwap DEX, Commercial Transactions, Tangible Market, and Social Cause.",
+                "The LOTTO tokens, created by CRYPTO LOTTERY NFT, are part of a DeFi-powered play-to-earn lottery DApp aimed at modernizing the traditional lottery model using blockchain technology."
+            ]
+        }
+      
     ]
 }
