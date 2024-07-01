@@ -61,12 +61,12 @@
     {
       "origin": "legacy",
       "chainId": 16507,
-      "address": "0x396a955563f77eb4aa2c62762ed7f24c999c4742",
-      "name": "Dead Ralph",
-      "symbol": "DRALPH",
+      "address": "0xf8213760f3a91c8092bc9d6c877b5623610f2913",
+      "name": "Shitcats",
+      "symbol": "SHATS",
       "decimals": 18,
-      "logoURI": "https://bluelotusdao.org/images/tokens/gsys/0x396A955563f77Eb4AA2c62762ED7f24c999c4742.png",
-      "description": "A cult that conmemorates the dead meme coin $RALPH. Staking your NFT will earn you $DRALPH"
+      "logoURI": "https://shitcats.wtf/wp-content/uploads/2024/06/logo_circ.png",
+      "description": "Welcome to the world of Shitcats (SHATS), the first cat-themed meme token on the revolutionary Genesys Network (Gchain)."
     }
   ],
   "version": {
