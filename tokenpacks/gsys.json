@@ -3,7 +3,7 @@
 
         {
             "featured": true,
-            "description": "Genesys network trend tokens for the month of July 2024.",
+            "description": "Genesys network trend tokens for the month of July 2024. Recommended slippage: 5% or more.",
             "network": 16507,
             "router": "0x4ef8bbb6c4a5a6b59756520613f6f51d10cac0fe",
             "bannerUrl": "https://raw.githubusercontent.com/Powabit/kinderswap-tokenlist/main/tpbanners/tp_sjuly24.png",
