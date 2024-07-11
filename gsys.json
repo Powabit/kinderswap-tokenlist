@@ -11,16 +11,6 @@
     {
       "origin": "legacy",
       "chainId": 16507,
-      "address": "0xdee429c269504586d976db774078fea67ea1f1c2",
-      "name": "Baby Bitcoin",
-      "symbol": "BBTC",
-      "decimals": 18,
-      "logoURI": "https://babybitcoin.finance/logo_new_128.png",
-      "description": "Launched in July 2021, the Baby Bitcoin token was designed from its inception to be used in entertainment platforms and social initiatives. Over time, it has evolved to encompass a broader structure, articulated in five fundamental pillars that define the essence of the project: Powabit Ecosystem, KinderSwap DEX, Commercial Transactions, Tangible Market, and Social Cause."
-    },
-    {
-      "origin": "legacy",
-      "chainId": 16507,
       "address": "0x766c8aed079d43d6b29da8792b818373b933d80e",
       "name": "Tether USDT",
       "symbol": "USDT",
