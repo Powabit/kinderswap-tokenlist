@@ -31,6 +31,16 @@
     {
       "origin": "legacy",
       "chainId": 56,
+      "address": "0xcb8382b4f7bc012f0eff12e62ca2801f54aca975",
+      "name": "Baby Bitcoin",
+      "symbol": "BBTC",
+      "decimals": 18,
+      "logoURI": "https://babybitcoin.finance/logo_new_128.png",
+      "description": "Baby Bitcoin (BBTC) is part of the Powabit ecosystem. This meme token, in addition to being cool, offers multiple functionalities, dynamics, and benefits within the ecosystem of which it is a fundamental part.​"
+    },
+    {
+      "origin": "legacy",
+      "chainId": 56,
       "address": "0xc54f65bde88ce67bb2e7b2d5d2b9f167501f373d",
       "name": "CryptoLottery NFT",
       "symbol": "LOTTOB",
