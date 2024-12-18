@@ -57,6 +57,16 @@
       "decimals": 18,
       "logoURI": "https://shitcats.wtf/wp-content/uploads/2024/06/logo_circ.png",
       "description": "Welcome to the world of Shitcats (SHATS), the first cat-themed meme token on the revolutionary Genesys Network (Gchain)."
+    },
+    {
+      "origin": "legacy",
+      "chainId": 16507,
+      "address": "0xe4351adbb6bf0019925d2ebc5350deb5e5c7f59b",
+      "name": "GDOG",
+      "symbol": "GDOG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Powabit/kinderswap-tokenlist/refs/heads/main/token_img/gdog_0xe4351adbb6bf0019925d2ebc5350deb5e5c7f59b_gsys.jpg",
+      "description": "DOG is the first dog in the Genesys ecosystem. A community meme that will give a lot to bark about."
     }
   ],
   "version": {
