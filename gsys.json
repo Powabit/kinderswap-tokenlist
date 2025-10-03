@@ -41,16 +41,6 @@
     {
       "origin": "legacy",
       "chainId": 16507,
-      "address": "0xc91b5288e0d4bf1e9ecb59a7a1ffd015b66a8dc6",
-      "name": "CryptoLottery NFT",
-      "symbol": "LOTTO",
-      "decimals": 18,
-      "logoURI": "https://www.cryptolotterynft.com/logos/128x128.png",
-      "description": "The LOTTO tokens, created by CRYPTO LOTTERY NFT, are part of a DeFi-powered play-to-earn lottery DApp aimed at modernizing the traditional lottery model using blockchain technology. These tokens offer a reliable, tamper-proof platform while maintaining classic lottery elements. The LOTTO token, as the native currency of the Crypto Lottery NFT platform, is designed to transform the conventional lottery experience through blockchain and NFT technologies. With a total supply of 30 million, the token is used in mini-games and scratch-off drawings within the platform, creating a balanced and sustainable economy. The integration of blockchain and NFT technology ensures transparency, fairness, and security in all games and transactions, enabling public verification of platform activities​"
-    },
-    {
-      "origin": "legacy",
-      "chainId": 16507,
       "address": "0xf8213760f3a91c8092bc9d6c877b5623610f2913",
       "name": "Shitcats",
       "symbol": "SHATS",
@@ -61,22 +51,12 @@
     {
       "origin": "legacy",
       "chainId": 16507,
-      "address": "0xe4351adbb6bf0019925d2ebc5350deb5e5c7f59b",
-      "name": "GDOG",
-      "symbol": "GDOG",
+      "address": "0xe5597d8b85f2b70aefa541c27c3fe81c8ecfbab5",
+      "name": "MUM Coin",
+      "symbol": "MUM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Powabit/kinderswap-tokenlist/refs/heads/main/token_img/gdog_0xe4351adbb6bf0019925d2ebc5350deb5e5c7f59b_gsys.jpg",
-      "description": "DOG is the first dog in the Genesys ecosystem. A community meme that will give a lot to bark about."
-    },
-    {
-      "origin": "legacy",
-      "chainId": 16507,
-      "address": "0xca7670e798f355a36e1f8d2ae94dd2797eeac7e8",
-      "name": "Fake Funny",
-      "symbol": "FAKE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Gchainvalidators/blockchains/main/assets/0xCA7670e798f355a36E1F8D2aE94Dd2797eeaC7e8/logo.png",
-      "description": "Ninefake Is A Cloud Mining Platform That Uses The Fake Token, Replacing Traditional Staking Platforms. With Ninefake, You Can Withdraw Your Rewards At Any Time, Offering A Significant Advancement Compared To Other Cryptocurrencies. "
+      "logoURI": "https://raw.githubusercontent.com/Gchainvalidators/blockchains/main/assets/0xE5597d8b85f2B70aEFa541c27C3fe81c8EcFBAb5/logo.png",
+      "description": "The meme coin for dreamers who never leave mums house. No utility. No rent. Just community & chaos."
     }
   ],
   "version": {
