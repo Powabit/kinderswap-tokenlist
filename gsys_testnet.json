@@ -32,12 +32,12 @@
     {
       "origin": "legacy",
       "chainId": 42440,
-      "address": "0x4724d7c0c03fca0d64C73812B9f0af3c40Fbbb02",
-      "name": "Baby Bitcoin",
-      "symbol": "BBTC",
+      "address": "0xb163a00b533eb0c4bd2cafc771c555f492bef37b",
+      "name": "Astralis Testnet",
+      "symbol": "TESTNET",
       "decimals": 18,
-      "logoURI": "https://babybitcoin.finance/logo_new_128.png",
-      "description": "Launched in July 2021, the Baby Bitcoin token was designed from its inception to be used in entertainment platforms and social initiatives. Over time, it has evolved to encompass a broader structure, articulated in five fundamental pillars that define the essence of the project: Powabit Ecosystem, KinderSwap DEX, Commercial Transactions, Tangible Market, and Social Cause."
+      "logoURI": "https://i.postimg.cc/WpxwF8Jw/apple-touch-icon.png",
+      "description": "Testnet coin"
     }
   ],
   "version": {
