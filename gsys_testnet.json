@@ -12,6 +12,16 @@
     {
       "origin": "legacy",
       "chainId": 42440,
+      "address": "0xb163a00b533eb0c4bd2cafc771c555f492bef37b",
+      "name": "Astralis Testnet",
+      "symbol": "TESTNET",
+      "decimals": 18,
+      "logoURI": "https://i.postimg.cc/WpxwF8Jw/apple-touch-icon.png",
+      "description": "Testnet coin"
+    },
+    {
+      "origin": "legacy",
+      "chainId": 42440,
       "address": "0xc134A863959707E7DA0412609D73Bcc2d9B9aE2A",
       "name": "USDT Test",
       "symbol": "USDT",
@@ -28,16 +38,6 @@
       "decimals": 18,
       "logoURI": "https://powadap.com/assets/img/icons/coins/usdc.png",
       "description": "USDC for testing environment."
-    },
-    {
-      "origin": "legacy",
-      "chainId": 42440,
-      "address": "0xb163a00b533eb0c4bd2cafc771c555f492bef37b",
-      "name": "Astralis Testnet",
-      "symbol": "TESTNET",
-      "decimals": 18,
-      "logoURI": "https://i.postimg.cc/WpxwF8Jw/apple-touch-icon.png",
-      "description": "Testnet coin"
     }
   ],
   "version": {
