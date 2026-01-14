@@ -46,7 +46,7 @@
       "name": "Daily One Token",
       "symbol": "DOT",
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://i.postimg.cc/WpxwF8Jw/apple-touch-icon.png",
       "description": "Token for testing."
     }
   ],
