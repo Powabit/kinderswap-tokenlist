@@ -38,6 +38,16 @@
       "decimals": 18,
       "logoURI": "https://powadap.com/assets/img/icons/coins/usdc.png",
       "description": "USDC for testing environment."
+    },
+    {
+      "origin": "legacy",
+      "chainId": 42440,
+      "address": "0xf98923f0fe0C81BD72610bF759e5596228AC35CE",
+      "name": "Daily One Token",
+      "symbol": "DOT",
+      "decimals": 18,
+      "logoURI": "",
+      "description": "Token for testing."
     }
   ],
   "version": {
